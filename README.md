@@ -72,9 +72,11 @@ Cricket generates vast amounts of data, especially during major tournaments like
 
 ## 📷 Screenshots
 
+> *![Bright Data](https://github.com/user-attachments/assets/a1fbdd55-c2cd-4e58-bcf4-4e521b80c0cb)*
 > *![Bi2](https://github.com/user-attachments/assets/be8d2269-76d2-4589-9e6e-09a150ec392c)*
-> *![Bi1](https://github.com/user-attachments/assets/613d6b04-a299-4927-8247-30b096ae2903)
-*
+> *![Bi1](https://github.com/user-attachments/assets/613d6b04-a299-4927-8247-30b096ae2903)*
+
+
 
 ---
 
