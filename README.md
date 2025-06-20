@@ -1,16 +1,30 @@
-Executed a complete end-to-end data analytics project focused on the ICC T20 World Cup 2022 using real-time cricket data. Leveraged web scraping, Python (Pandas), and Power BI to extract, transform, and visualize insights from player and match statistics sourced from ESPN Cricinfo.
+This end-to-end sports analytics project focuses on analyzing the T20 World Cup 2022 using real-world data from ESPN Cricinfo. The project combines web scraping, data wrangling, and interactive dashboarding to generate actionable insights and identify top-performing players.
 
-Utilized Bright Data’s Web Scraper IDE to automate data collection, exporting structured JSON data into CSV format.
+📌 Key Highlights:
+Web Scraping: Used Bright Data’s Web Scraper IDE to extract player and match data from ESPN Cricinfo.
 
-Conducted data cleaning and preprocessing using Python's Pandas to create relational datasets including batting summaries and match metadata.
+Data Cleaning: Transformed JSON data into structured CSV files using Python and Pandas.
 
-Performed advanced data transformations using Power Query and implemented DAX measures to model cricket performance metrics.
+Data Analysis: Performed data exploration, created match-wise and player-wise performance summaries.
 
-Designed an interactive Power BI dashboard to analyze key insights such as run rates, strike rates, consistency, and match impact.
+Power BI Dashboard: Developed an interactive dashboard with filters, visual KPIs, and insights to simulate team selection.
 
-Selected a "Best XI Earth Team" using custom performance metrics to simulate a fantasy cricket team challenge.
+Fantasy Team Selection: Selected a best XI team based on statistical performance and cricket strategy logic.
 
-The project combined real-world data handling, business intelligence, and storytelling to uncover valuable sports insights.
+Storytelling: Presented insights like top power hitters, best bowlers, and all-rounders using compelling visualizations.
 
-💡 Tools & Technologies: Python, Pandas, Power BI, DAX, Bright Data, Power Query, Web Scraping, ESPN Cricinfo
+🛠 Tech Stack:
+Python (Pandas)
 
+Bright Data (Web Scraper IDE)
+
+Power BI
+
+DAX
+
+Power Query
+
+ESPN Cricinfo (Data Source)
+
+📈 Outcome:
+A fully functional, insightful Power BI dashboard that helps users make data-driven decisions in player selection and match strategy — ideal for showcasing data analytics skills in a real-world sports context.
