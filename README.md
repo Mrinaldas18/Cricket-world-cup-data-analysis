@@ -90,19 +90,38 @@ Cricket generates vast amounts of data, especially during major tournaments like
 
 ---
 
-## 📁 Folder Structure
+## 🗂️ Folder Structure
 
-```
-📆 cricket-data-analytics/
-👥🗂️ data/
-    └️ batting_summary.csv
-    └️ match_info.csv
-👥🗂️ notebooks/
-    └️ data_cleaning.ipynb
-👥🗂️ powerbi/
-    └️ dashboard.pbix
-📄 README.md
-📄 requirements.txt
+```plaintext
+📂 cricket-world-cup-data-analysis/
+├── 📄 Cricket Best 11.pbix
+├── 📄 Dashboards & Paramaeter Scoping.pptx
+├── 📄 t20_cric_1_power_query.pbix
+├── 📂 t20_csv_files/
+│   └── 📂 t20_csv_files/
+│       ├── 📄 data.xlsx
+│       ├── 📄 dim_match_summary.xlsx
+│       ├── 📄 dim_players.xlsx
+│       ├── 📄 fact_bating_summary.xlsx
+│       ├── 📄 fact_bowling_summary.xlsx
+├── 📂 t20_json_files/
+│   ├── 📄 t20_wc_batting_summary.json
+│   ├── 📄 t20_wc_bowling_summary.json
+│   ├── 📄 t20_wc_match_results.json
+│   └── 📄 t20_wc_player_info.json
+├── 📂 web_scrapping_codes/
+│   └── 📂 web_scrapping_codes/
+│       ├── 📄 t20_wc_batting_summary.js
+│       ├── 📄 t20_wc_bowling_summary.js
+│       ├── 📄 t20_wc_match_results.js
+│       └── 📄 t20_wc_player_info.js
+├── 📂 notebooks/
+│   └── 📄 data_cleaning.ipynb
+├── 📂 powerbi/
+│   └── 📄 dashboard.pbix
+├── 📄 README.md
+└── 📄 requirements.txt
+
 ```
 
 ---
